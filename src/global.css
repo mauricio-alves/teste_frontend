@@ -1,0 +1,10 @@
+body {
+  width: 1600px;
+  margin: 0 auto !important;
+}
+
+#homeBody {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
